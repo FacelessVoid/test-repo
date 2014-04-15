@@ -1,4 +1,6 @@
 test-repo
 =========
 
-Just to get setup with the Github hands-on with DataScientistToolkit
+DataScientistToolkit Course was done using Git
+This is just a dummy project which deals with
+the Hands-on session with GitHub.
